@@ -1,6 +1,6 @@
-# Airplane-Shooting-Game
+# Airplane-And-Tank-Shooting-Game
 **1. 목표**   
-Win32에서 ‘비행기 슈팅 게임’을 작성한다.  
+Win32에서 ‘비행기/탱크 슈팅 게임’을 작성한다.  
 
 **2. 요구 사항**   
 다음 사항을 모두 만족하는 응용 프로그램을 작성한다.   
